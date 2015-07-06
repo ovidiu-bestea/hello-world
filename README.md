@@ -6,4 +6,7 @@ We do:
 
 And try several formatting<br>
 what is<br>
-this
+this.
+Acum am facut modificari
+pe branch.
+Urmeaza sa le commit.
